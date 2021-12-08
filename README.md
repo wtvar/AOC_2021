@@ -9,5 +9,7 @@ any notes/advice for improvement appreciated
 
 day 01: https://adventofcode.com/2021/day/1   result: **  
 day 02: https://adventofcode.com/2021/day/2   result: **  
-day 03: https://adventofcode.com/2021/day/3   result:   
-
+day 03: https://adventofcode.com/2021/day/3   result: *  
+day 04: https://adventofcode.com/2021/day/4   result:   
+day 05: https://adventofcode.com/2021/day/5   result:   
+day 06: https://adventofcode.com/2021/day/6   result: **   
